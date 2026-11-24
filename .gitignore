@@ -1,0 +1,49 @@
+# Unity tərəfindən avtomatik yaradılan qovluqlar
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/Captures/
+
+# IDE faylları
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build nəticələri
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+crashlytics-buildid.txt
+sysinfo.txt
+
+# Əməliyyat sistemi zibili
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python keşi (Tools)
+__pycache__/
+*.pyc
