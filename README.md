@@ -59,5 +59,4 @@ Səhnəni sıfırdan yenidən qurmaq üçün Unity menyusunda: **Tools → Mehel
 ## Qeydlər
 
 - Kodda adlar ingiliscədir, şərhlər (comment) Azərbaycan dilindədir, oyunçunun gördüyü mətnlər Azərbaycan dilindədir.
-- Yaddaş faylı `%USERPROFILE%\AppData\LocalLow\DefaultCompany\My project\mehelle_save.json` ünvanında saxlanır.
 - Şrift: [Pixelify Sans](https://fonts.google.com/specimen/Pixelify+Sans), SIL Open Font License 1.1.
